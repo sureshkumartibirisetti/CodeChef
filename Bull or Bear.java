@@ -20,6 +20,5 @@ class Codechef
 		        System.out.println("PROFIT");
 		    }
 		}
-
-	}
+          }
 }
