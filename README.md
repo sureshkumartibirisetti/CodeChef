@@ -2,7 +2,7 @@
 
 **CodeChef Problem Solvers** 🧑‍💻  
 
-🔗 [Check out my CodeChef Profile here](your-profile-link)  
+🔗 [Check out my CodeChef Profile here](https://www.codechef.com/users/suresh_4i2)
 
 Welcome to my **CodeChef repository**! This repository contains solutions to numerous problems that I've solved on **CodeChef**, a competitive programming platform. These solutions span across a wide range of difficulty levels, from beginner-friendly challenges to complex, hard-level problems. The main purpose of this repository is to help myself track my progress, document my learning journey, and share it with the community for educational purposes.
 
